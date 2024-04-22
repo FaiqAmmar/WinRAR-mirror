@@ -1,0 +1,8 @@
+<style>
+
+.slides {display: none;}
+
+.slides{animation-name:slides;animation-duration:3.5s;}
+@keyframes slides{from{opacity:.4}to{opacity:1}}
+
+</style>
